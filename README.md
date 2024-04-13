@@ -1,2 +1,2 @@
-# DataCollection-zoopla
-Data collection project which collects data from zoopla website
+# DataCollection
+Data collection project which collects data 
